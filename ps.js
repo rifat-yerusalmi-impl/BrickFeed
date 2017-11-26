@@ -1,5 +1,6 @@
 ".video-title/max-height" "66.0px"
 ".syndicatedItem .video-title/max-height" "44.0px"
+"responsive-rules" "[{\"minWidth\":1px,\"virtualThumbWidth\":1,\"virtualThumbHeight\":1}]"
 
 function() {
     try {
@@ -169,4 +170,4 @@ function() {
     } catch(e) {
         console.log(e);
     }
-}
+} 

@@ -1,4 +1,4 @@
-function(box,data) {
+function(box,data) { 
     box.className += ' mediumSized';
     var feedContainer = box.rbox.container.parentNode,
         cardList = feedContainer.childNodes,
